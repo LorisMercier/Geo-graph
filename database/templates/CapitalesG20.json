@@ -1,0 +1,12 @@
+{
+    "nomQuiz": "Les capitales du G20",
+    "nbQuestion": 10,
+    "nbProposition": 6,
+    "varQuestion":
+        {
+            "attrQuestion":"nom",
+            "attrReponse":"capitale"
+        },
+    "categorie":"G20",
+    "type": "QCM"
+}

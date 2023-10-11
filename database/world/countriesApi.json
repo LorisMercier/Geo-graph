@@ -1,0 +1,2890 @@
+{
+    "PAK": {
+        "nom": "Pakistan",
+        "capitale": "Islamabad",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud",
+        "population": 220892331,
+        "langue": [
+            "Anglais",
+            "Ourdou"
+        ],
+        "devise": [
+            "roupie pakistanaise"
+        ],
+        "drapeau": "https://flagcdn.com/pk.svg"
+    },
+    "TWN": {
+        "nom": "Taiwan",
+        "capitale": "Tapei",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Est",
+        "population": 23545963,
+        "langue": ["Chinois"],
+        "devise": [
+            "Nouveau dollar de Taïwan"
+        ],
+        "drapeau": "https://flagcdn.com/tw.svg"
+    },
+    "KSV": {
+        "nom": "Kosovo",
+        "capitale": "Pristina",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Est",
+        "population": 1920079,
+        "langue": [
+            "Albanais",
+            "Serbe"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/xk.svg"
+    },
+    "POL": {
+        "nom": "Pologne",
+        "capitale": "Varsovie",
+        "continent": "Europe",
+        "sous-continent": "Europe Centrale",
+        "population": 37950802,
+        "langue": [
+            "polonais"
+        ],
+        "devise": [
+            "Złoty polonais"
+        ],
+        "drapeau": "https://flagcdn.com/pl.svg"
+    },
+    "JOR": {
+        "nom": "Jordanie",
+        "capitale": "Amman",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 10203140,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "Dinar jordanien"
+        ],
+        "drapeau": "https://flagcdn.com/jo.svg"
+    },
+    "LSO": {
+        "nom": "Lesotho",
+        "capitale": "Maseru",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Sud",
+        "population": 2142252,
+        "langue": [
+            "Anglais",
+            "Sotho"
+        ],
+        "devise": [
+            "Loti du Lesotho",
+            "Rand sud-africain"
+        ],
+        "drapeau": "https://flagcdn.com/ls.svg"
+    },
+    "EST": {
+        "nom": "Estonie",
+        "capitale": "Tallin",
+        "continent": "Europe",
+        "sous-continent": "Europe du Nord",
+        "population": 1331057,
+        "langue": [
+            "estonien"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/ee.svg"
+    },
+    "PRK": {
+        "nom": "Corée du Nord",
+        "capitale": "Pyongyang",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Est",
+        "population": 25778815,
+        "langue": [
+            "coréen"
+        ],
+        "devise": [
+            "Won nord-coréen"
+        ],
+        "drapeau": "https://flagcdn.com/kp.svg"
+    },
+    "BEL": {
+        "nom": "Belgique",
+        "capitale": "Bruxelles",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Ouest",
+        "population": 11555997,
+        "langue": [
+            "Allemand",
+            "Français",
+            "Néerlandais"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/be.svg"
+    },
+    "IRN": {
+        "nom": "Iran",
+        "capitale": "Téhéran",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud",
+        "population": 83992953,
+        "langue": [
+            "persan (farsi)"
+        ],
+        "devise": [
+            "Rial iranien"
+        ],
+        "drapeau": "https://flagcdn.com/ir.svg"
+    },
+    "IRQ": {
+        "nom": "Irak",
+        "capitale": "Bagdad",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 40222503,
+        "langue": [
+            "Arabe",
+            "araméen",
+            "Sorani"
+        ],
+        "devise": [
+            "Dinar irakien"
+        ],
+        "drapeau": "https://flagcdn.com/iq.svg"
+    },
+    "ARG": {
+        "nom": "Argentine",
+        "capitale": "Buenos Aires",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 45376763,
+        "langue": [
+            "Guarani",
+            "Espagnol"
+        ],
+        "devise": [
+            "Peso argentin"
+        ],
+        "drapeau": "https://flagcdn.com/ar.svg"
+    },
+    "ARM": {
+        "nom": "Arménie",
+        "capitale": "Erevan",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 2963234,
+        "langue": [
+            "Arménien"
+        ],
+        "devise": [
+            "Dram arménien"
+        ],
+        "drapeau": "https://flagcdn.com/am.svg"
+    },
+    "KOR": {
+        "nom": "Corée du Sud",
+        "capitale": "Séoul",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Est",
+        "population": 51780579,
+        "langue": [
+            "coréen"
+        ],
+        "devise": [
+            "Won sud-coréen"
+        ],
+        "drapeau": "https://flagcdn.com/kr.svg"
+    },
+    "PAN": {
+        "nom": "Panama",
+        "capitale": "Panama",
+        "continent": "Amérique",
+        "sous-continent": "Amérique Centrale",
+        "population": 4314768,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Balboa panaméen",
+            "Dollar américain"
+        ],
+        "drapeau": "https://flagcdn.com/pa.svg"
+    },
+    "MNG": {
+        "nom": "Mongolie",
+        "capitale": "Oulan Bator",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Est",
+        "population": 3278292,
+        "langue": [
+            "mongol"
+        ],
+        "devise": [
+            "Tugrik"
+        ],
+        "drapeau": "https://flagcdn.com/mn.svg"
+    },
+    "SEN": {
+        "nom": "Sénégal",
+        "capitale": "Dakar",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 16743930,
+        "langue": [
+            "Français"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique de l'Ouest"
+        ],
+        "drapeau": "https://flagcdn.com/sn.svg"
+    },
+    "SRB": {
+        "nom": "Serbie",
+        "capitale": "Belgrade",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud-Est",
+        "population": 6908224,
+        "langue": [
+            "serbe"
+        ],
+        "devise": [
+            "Dinar serbe"
+        ],
+        "drapeau": "https://flagcdn.com/rs.svg"
+    },
+    "CYP": {
+        "nom": "Chypre",
+        "capitale": "Nicosie",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud",
+        "population": 1207361,
+        "langue": [
+            "Grec",
+            "Turc"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/cy.svg"
+    },
+    "ETH": {
+        "nom": "Ethiopie",
+        "capitale": "Addis Ababa",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 114963583,
+        "langue": [
+            "Amharique"
+        ],
+        "devise": [
+            "Birr éthiopien"
+        ],
+        "drapeau": "https://flagcdn.com/et.svg"
+    },
+    "ITA": {
+        "nom": "Italie",
+        "capitale": "Rome",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud",
+        "population": 59554023,
+        "langue": [
+            "Italien"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/it.svg"
+    },
+    "USA": {
+        "nom": "Etats-Unis",
+        "capitale": "Washington DC.",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Nord",
+        "population": 329484123,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar américain"
+        ],
+        "drapeau": "https://flagcdn.com/us.svg"
+    },
+    "TTO": {
+        "nom": "Trinité-et-Tobago",
+        "capitale": "Port d'Espagne",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 1399491,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar de Trinité-et-Tobago"
+        ],
+        "drapeau": "https://flagcdn.com/tt.svg"
+    },
+    "DJI": {
+        "nom": "Djibouti",
+        "capitale": "Djibouti",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 988002,
+        "langue": [
+            "Arabe",
+            "Français"
+        ],
+        "devise": [
+            "Franc djiboutien"
+        ],
+        "drapeau": "https://flagcdn.com/dj.svg"
+    },
+    "BHS": {
+        "nom": "Bahamas",
+        "capitale": "Nassau",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 393248,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar des Bahamas",
+            "Dollar américain"
+        ],
+        "drapeau": "https://flagcdn.com/bs.svg"
+    },
+    "LIE": {
+        "nom": "Liechtenstein",
+        "capitale": "Vaduz",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Ouest",
+        "population": 38137,
+        "langue": [
+            "Allemand"
+        ],
+        "devise": [
+            "Franc suisse"
+        ],
+        "drapeau": "https://flagcdn.com/li.svg"
+    },
+    "UKR": {
+        "nom": "Ukraine",
+        "capitale": "Kiev",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Est",
+        "population": 44134693,
+        "langue": [
+            "ukrainien"
+        ],
+        "devise": [
+            "Hryvnia ukrainienne"
+        ],
+        "drapeau": "https://flagcdn.com/ua.svg"
+    },
+    "GMB": {
+        "nom": "Gambie",
+        "capitale": "Banjul",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 2416664,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dalasi"
+        ],
+        "drapeau": "https://flagcdn.com/gm.svg"
+    },
+    "NAM": {
+        "nom": "Namibie",
+        "capitale": "Windhoek",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Sud",
+        "population": 2540916,
+        "langue": [
+            "afrikaans",
+            "Allemand",
+            "Anglais",
+            "Héréro",
+            "Khoekhoe",
+            "Kwangali",
+            "Lozi",
+            "Ndonga",
+            "Tswana"
+        ],
+        "devise": [
+            "Dollar namibien",
+            "Rand sud-africain"
+        ],
+        "drapeau": "https://flagcdn.com/na.svg"
+    },
+    "URY": {
+        "nom": "Uruguay",
+        "capitale": "Montevidéo",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 3473727,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Peso uruguayen"
+        ],
+        "drapeau": "https://flagcdn.com/uy.svg"
+    },
+    "MHL": {
+        "nom": "Iles Marshall",
+        "capitale": "Majuro",
+        "continent": "Océanie",
+        "sous-continent": "Micronésie",
+        "population": 59194,
+        "langue": [
+            "Anglais",
+            "marshallais"
+        ],
+        "devise": [
+            "Dollar américain"
+        ],
+        "drapeau": "https://flagcdn.com/mh.svg"
+    },
+    "SLB": {
+        "nom": "Iles Salomon",
+        "capitale": "Honiara",
+        "continent": "Océanie",
+        "sous-continent": "Mélanésie",
+        "population": 686878,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar des îles Salomon"
+        ],
+        "drapeau": "https://flagcdn.com/sb.svg"
+    },
+    "SVK": {
+        "nom": "Slovaquie",
+        "capitale": "Bratislava",
+        "continent": "Europe",
+        "sous-continent": "Europe Centrale",
+        "population": 5458827,
+        "langue": [
+            "slovaque"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/sk.svg"
+    },
+    "MNE": {
+        "nom": "Monténégro",
+        "capitale": "Podgorica",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud-Est",
+        "population": 621718,
+        "langue": [
+            "monténégrin"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/me.svg"
+    },
+    "SYC": {
+        "nom": "Seychelles",
+        "capitale": "Victoria",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 98462,
+        "langue": [
+            "Créole seychellois",
+            "Anglais",
+            "Français"
+        ],
+        "devise": [
+            "Roupie seychelloise"
+        ],
+        "drapeau": "https://flagcdn.com/sc.svg"
+    },
+    "DNK": {
+        "nom": "Danemark",
+        "capitale": "Copenhague",
+        "continent": "Europe",
+        "sous-continent": "Europe du Nord",
+        "population": 5831404,
+        "langue": [
+            "Danois"
+        ],
+        "devise": [
+            "couronne danoise"
+        ],
+        "drapeau": "https://flagcdn.com/dk.svg"
+    },
+    "THA": {
+        "nom": "Thaïlande",
+        "capitale": "Bangkok",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud-Est",
+        "population": 69799978,
+        "langue": [
+            "thaïlandais"
+        ],
+        "devise": [
+            "baht thaïlandais"
+        ],
+        "drapeau": "https://flagcdn.com/th.svg"
+    },
+    "MMR": {
+        "nom": "Birmanie",
+        "capitale": "Naypyidaw",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud-Est",
+        "population": 54409794,
+        "langue": [
+            "birman"
+        ],
+        "devise": [
+            "Kyat birman"
+        ],
+        "drapeau": "https://flagcdn.com/mm.svg"
+    },
+    "BLR": {
+        "nom": "Biélorussie",
+        "capitale": "Minsk",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Est",
+        "population": 9398861,
+        "langue": [
+            "Biélorusse",
+            "Russe"
+        ],
+        "devise": [
+            "Rouble biélorusse"
+        ],
+        "drapeau": "https://flagcdn.com/by.svg"
+    },
+    "BWA": {
+        "nom": "Botswana",
+        "capitale": "Gaborone",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Sud",
+        "population": 2351625,
+        "langue": [
+            "Anglais",
+            "Tswana"
+        ],
+        "devise": [
+            "Pula botswanais"
+        ],
+        "drapeau": "https://flagcdn.com/bw.svg"
+    },
+    "ERI": {
+        "nom": "Erythrée",
+        "capitale": "Asmara",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 5352000,
+        "langue": [
+            "Arabe",
+            "Anglais",
+            "Tigrinya"
+        ],
+        "devise": [
+            "Nakfa érythréen"
+        ],
+        "drapeau": "https://flagcdn.com/er.svg"
+    },
+    "BLZ": {
+        "nom": "Belize",
+        "capitale": "Belmopan",
+        "continent": "Amérique",
+        "sous-continent": "Amérique Centrale",
+        "population": 397621,
+        "langue": [
+            "Créole bélizien",
+            "Anglais",
+            "Espagnol"
+        ],
+        "devise": [
+            "Dollar bélizéen"
+        ],
+        "drapeau": "https://flagcdn.com/bz.svg"
+    },
+    "NGA": {
+        "nom": "Nigéria",
+        "capitale": "Abuja",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 206139587,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Naira nigérian"
+        ],
+        "drapeau": "https://flagcdn.com/ng.svg"
+    },
+    "GBR": {
+        "nom": "Royaume-Uni",
+        "capitale": "Londres",
+        "continent": "Europe",
+        "sous-continent": "Europe du Nord",
+        "population": 67215293,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Livre sterling"
+        ],
+        "drapeau": "https://flagcdn.com/gb.svg"
+    },
+    "GEO": {
+        "nom": "Géorgie",
+        "capitale": "Tbilissi",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 3714000,
+        "langue": [
+            "géorgien"
+        ],
+        "devise": [
+            "lari"
+        ],
+        "drapeau": "https://flagcdn.com/ge.svg"
+    },
+    "ISL": {
+        "nom": "Islande",
+        "capitale": "Reykjavik",
+        "continent": "Europe",
+        "sous-continent": "Europe du Nord",
+        "population": 366425,
+        "langue": [
+            "islandais"
+        ],
+        "devise": [
+            "Couronne islandaise"
+        ],
+        "drapeau": "https://flagcdn.com/is.svg"
+    },
+    "MCO": {
+        "nom": "Monaco",
+        "capitale": "Monaco",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Ouest",
+        "population": 39244,
+        "langue": [
+            "Français"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/mc.svg"
+    },
+    "SOM": {
+        "nom": "Somalie",
+        "capitale": "Mogadiscio",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 15893219,
+        "langue": [
+            "Arabe",
+            "somali"
+        ],
+        "devise": [
+            "Shilling somalien"
+        ],
+        "drapeau": "https://flagcdn.com/so.svg"
+    },
+    "MUS": {
+        "nom": "Ile Maurice",
+        "capitale": "Port Louis",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 1265740,
+        "langue": [
+            "Anglais",
+            "Français",
+            "Créole mauricien"
+        ],
+        "devise": [
+            "roupie mauricienne"
+        ],
+        "drapeau": "https://flagcdn.com/mu.svg"
+    },
+    "COL": {
+        "nom": "Colombie",
+        "capitale": "Bogota",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 50882884,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Peso colombien"
+        ],
+        "drapeau": "https://flagcdn.com/co.svg"
+    },
+    "TGO": {
+        "nom": "Togo",
+        "capitale": "Lomé",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 8278737,
+        "langue": [
+            "Français"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique de l'Ouest"
+        ],
+        "drapeau": "https://flagcdn.com/tg.svg"
+    },
+    "CUB": {
+        "nom": "Cuba",
+        "capitale": "La Havane",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 11326616,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Peso cubain convertible",
+            "Peso cubain"
+        ],
+        "drapeau": "https://flagcdn.com/cu.svg"
+    },
+    "VAT": {
+        "nom": "Cité du Vatican",
+        "capitale": "Vatican",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud",
+        "population": 451,
+        "langue": [
+            "Italien",
+            "Latin"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/va.svg"
+    },
+    "HUN": {
+        "nom": "Hongrie",
+        "capitale": "Budapest",
+        "continent": "Europe",
+        "sous-continent": "Europe Centrale",
+        "population": 9749763,
+        "langue": [
+            "hongrois"
+        ],
+        "devise": [
+            "forint hongrois"
+        ],
+        "drapeau": "https://flagcdn.com/hu.svg"
+    },
+    "COD": {
+        "nom": "Congo (Rép. dém.)",
+        "capitale": "Kinshasa",
+        "continent": "Afrique",
+        "sous-continent": "Afrique Centrale",
+        "population": 108407721,
+        "langue": [
+            "Français",
+            "Kikongo",
+            "Lingala",
+            "Tshiluba",
+            "Swahili"
+        ],
+        "devise": [
+            "Franc congolais"
+        ],
+        "drapeau": "https://flagcdn.com/cd.svg"
+    },
+    "SVN": {
+        "nom": "Slovénie",
+        "capitale": "Ljubljana",
+        "continent": "Europe",
+        "sous-continent": "Europe Centrale",
+        "population": 2100126,
+        "langue": [
+            "slovène"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/si.svg"
+    },
+    "LKA": {
+        "nom": "Sri Lanka",
+        "capitale": "Sri Jayawardenepura Kotte",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud",
+        "population": 21919000,
+        "langue": [
+            "Cinghalais",
+            "Tamil"
+        ],
+        "devise": [
+            "roupie sri lankaise"
+        ],
+        "drapeau": "https://flagcdn.com/lk.svg"
+    },
+    "PER": {
+        "nom": "Pérou",
+        "capitale": "Lima",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 32971846,
+        "langue": [
+            "Aymara",
+            "Quechua",
+            "Espagnol"
+        ],
+        "devise": [
+            "sol péruvien"
+        ],
+        "drapeau": "https://flagcdn.com/pe.svg"
+    },
+    "BDI": {
+        "nom": "Burundi",
+        "capitale": "Gitega",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 11890781,
+        "langue": [
+            "Français",
+            "Kirundi"
+        ],
+        "devise": [
+            "Franc burundais"
+        ],
+        "drapeau": "https://flagcdn.com/bi.svg"
+    },
+    "BFA": {
+        "nom": "Burkina Faso",
+        "capitale": "Ouagadougou",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 20903278,
+        "langue": [
+            "Français"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique de l'Ouest"
+        ],
+        "drapeau": "https://flagcdn.com/bf.svg"
+    },
+    "IND": {
+        "nom": "Inde",
+        "capitale": "New Delhi",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud",
+        "population": 1380004385,
+        "langue": [
+            "Anglais",
+            "hindi",
+            "Tamil"
+        ],
+        "devise": [
+            "roupie indienne"
+        ],
+        "drapeau": "https://flagcdn.com/in.svg"
+    },
+    "LCA": {
+        "nom": "Sainte-Lucie",
+        "capitale": "Castries",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 183629,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar des Caraïbes orientales"
+        ],
+        "drapeau": "https://flagcdn.com/lc.svg"
+    },
+    "LVA": {
+        "nom": "Lettonie",
+        "capitale": "Riga",
+        "continent": "Europe",
+        "sous-continent": "Europe du Nord",
+        "population": 1901548,
+        "langue": [
+            "letton"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/lv.svg"
+    },
+    "TCD": {
+        "nom": "Tchad",
+        "capitale": "N'Djaména",
+        "continent": "Afrique",
+        "sous-continent": "Afrique Centrale",
+        "population": 16425859,
+        "langue": [
+            "Arabe",
+            "Français"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique centrale"
+        ],
+        "drapeau": "https://flagcdn.com/td.svg"
+    },
+    "LAO": {
+        "nom": "Laos",
+        "capitale": "Vientiane",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud-Est",
+        "population": 7275556,
+        "langue": [
+            "Laotien"
+        ],
+        "devise": [
+            "Kip laotien"
+        ],
+        "drapeau": "https://flagcdn.com/la.svg"
+    },
+    "RWA": {
+        "nom": "Rwanda",
+        "capitale": "Kigali",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 12952209,
+        "langue": [
+            "Anglais",
+            "Français",
+            "Kinyarwanda"
+        ],
+        "devise": [
+            "Franc rwandais"
+        ],
+        "drapeau": "https://flagcdn.com/rw.svg"
+    },
+    "TZA": {
+        "nom": "Tanzanie",
+        "capitale": "Dodoma",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 59734213,
+        "langue": [
+            "Anglais",
+            "Swahili"
+        ],
+        "devise": [
+            "Shilling tanzanien"
+        ],
+        "drapeau": "https://flagcdn.com/tz.svg"
+    },
+    "SMR": {
+        "nom": "Saint-Marin",
+        "capitale": "Saint-Marin",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud",
+        "population": 33938,
+        "langue": [
+            "Italien"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/sm.svg"
+    },
+    "KHM": {
+        "nom": "Cambodge",
+        "capitale": "Phnom Penh",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud-Est",
+        "population": 16718971,
+        "langue": [
+            "Khmer"
+        ],
+        "devise": [
+            "Riel cambodgien",
+            "Dollar américain"
+        ],
+        "drapeau": "https://flagcdn.com/kh.svg"
+    },
+    "ZWE": {
+        "nom": "Zimbabwe",
+        "capitale": "Harare",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Sud",
+        "population": 14862927,
+        "langue": [
+            "Chibarwe",
+            "Anglais",
+            "Kalanga",
+            "Khoisan",
+            "Ndau",
+            "Ndebele du Nord",
+            "Chewa",
+            "Shona",
+            "Sotho",
+            "Tonga",
+            "Tswana",
+            "Tsonga",
+            "Vente",
+            "Xhosa",
+            "Langue des signes zimbabwéenne"
+        ],
+        "devise": [
+            "Dollar zimbabwéen"
+        ],
+        "drapeau": "https://flagcdn.com/zw.svg"
+    },
+    "MAR": {
+        "nom": "Maroc",
+        "capitale": "Rabat",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Nord",
+        "population": 36910558,
+        "langue": [
+            "Arabe",
+            "berbère"
+        ],
+        "devise": [
+            "dirham marocain"
+        ],
+        "drapeau": "https://flagcdn.com/ma.svg"
+    },
+    "MDA": {
+        "nom": "Moldavie",
+        "capitale": "Chișinău",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Est",
+        "population": 2617820,
+        "langue": [
+            "roumain"
+        ],
+        "devise": [
+            "Leu moldave"
+        ],
+        "drapeau": "https://flagcdn.com/md.svg"
+    },
+    "AUS": {
+        "nom": "Australie",
+        "capitale": "Canberra",
+        "continent": "Océanie",
+        "sous-continent": "Australie et Nouvelle Zélande",
+        "population": 25687041,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar australien"
+        ],
+        "drapeau": "https://flagcdn.com/au.svg"
+    },
+    "KEN": {
+        "nom": "Kenya",
+        "capitale": "Nairobi",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 53771300,
+        "langue": [
+            "Anglais",
+            "Swahili"
+        ],
+        "devise": [
+            "Shilling kényan"
+        ],
+        "drapeau": "https://flagcdn.com/ke.svg"
+    },
+    "AUT": {
+        "nom": "Autriche",
+        "capitale": "Vienne",
+        "continent": "Europe",
+        "sous-continent": "Europe Centrale",
+        "population": 8917205,
+        "langue": [
+            "Allemand"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/at.svg"
+    },
+    "SLV": {
+        "nom": "Salvador",
+        "capitale": "San Salvador",
+        "continent": "Amérique",
+        "sous-continent": "Amérique Centrale",
+        "population": 6486201,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Dollar américain"
+        ],
+        "drapeau": "https://flagcdn.com/sv.svg"
+    },
+    "PHL": {
+        "nom": "Philippines",
+        "capitale": "Manille",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud-Est",
+        "population": 109581085,
+        "langue": [
+            "Anglais",
+            "Philippin"
+        ],
+        "devise": [
+            "Peso philippin"
+        ],
+        "drapeau": "https://flagcdn.com/ph.svg"
+    },
+    "VEN": {
+        "nom": "Venezuela",
+        "capitale": "Caracas",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 28435943,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "bolívar vénézuélien soberano"
+        ],
+        "drapeau": "https://flagcdn.com/ve.svg"
+    },
+    "MLI": {
+        "nom": "Mali",
+        "capitale": "Bamako",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 20250834,
+        "langue": [
+            "Français"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique de l'Ouest"
+        ],
+        "drapeau": "https://flagcdn.com/ml.svg"
+    },
+    "CHE": {
+        "nom": "Suisse",
+        "capitale": "Berne",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Ouest",
+        "population": 8654622,
+        "langue": [
+            "Français",
+            "Suisse allemand",
+            "Italien",
+            "Romanche"
+        ],
+        "devise": [
+            "Franc suisse"
+        ],
+        "drapeau": "https://flagcdn.com/ch.svg"
+    },
+    "KIR": {
+        "nom": "Kiribati",
+        "capitale": "Tarawa Sud",
+        "continent": "Océanie",
+        "sous-continent": "Micronésie",
+        "population": 119446,
+        "langue": [
+            "Anglais",
+            "Gilbertais"
+        ],
+        "devise": [
+            "Dollar australien",
+            "Dollar kiribati"
+        ],
+        "drapeau": "https://flagcdn.com/ki.svg"
+    },
+    "ZAF": {
+        "nom": "Afrique du Sud",
+        "capitale": "Prétoria",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Sud",
+        "population": 59308690,
+        "langue": [
+            "afrikaans",
+            "Anglais",
+            "Ndebele du Sud",
+            "Sotho du Nord",
+            "Sotho du Sud",
+            "Swazi",
+            "Tswana",
+            "Tsonga",
+            "Vente",
+            "Xhosa",
+            "zoulou"
+        ],
+        "devise": [
+            "Rand sud-africain"
+        ],
+        "drapeau": "https://flagcdn.com/za.svg"
+    },
+    "SYR": {
+        "nom": "Syrie",
+        "capitale": "Damas",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 17500657,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "livre syrienne"
+        ],
+        "drapeau": "https://flagcdn.com/sy.svg"
+    },
+    "MKD": {
+        "nom": "Macédoine du Nord",
+        "capitale": "Skopje",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud-Est",
+        "population": 2077132,
+        "langue": [
+            "Macédonien"
+        ],
+        "devise": [
+            "dénar"
+        ],
+        "drapeau": "https://flagcdn.com/mk.svg"
+    },
+    "BEN": {
+        "nom": "Bénin",
+        "capitale": "Porto Novo",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 12123198,
+        "langue": [
+            "Français"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique de l'Ouest"
+        ],
+        "drapeau": "https://flagcdn.com/bj.svg"
+    },
+    "MYS": {
+        "nom": "Malaisie",
+        "capitale": "Kuala Lumpur",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud-Est",
+        "population": 32365998,
+        "langue": [
+            "Anglais",
+            "malais"
+        ],
+        "devise": [
+            "Cloche malaisienne"
+        ],
+        "drapeau": "https://flagcdn.com/my.svg"
+    },
+    "ESP": {
+        "nom": "Espagne",
+        "capitale": "Madrid",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud",
+        "population": 47351567,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/es.svg"
+    },
+    "PNG": {
+        "nom": "Papouasie-Nouvelle-Guinée",
+        "capitale": "Port Moresby",
+        "continent": "Océanie",
+        "sous-continent": "Mélanésie",
+        "population": 8947027,
+        "langue": [
+            "Anglais",
+            "Hiri Motu",
+            "Tok Pisin"
+        ],
+        "devise": [
+            "Kina papouan-néo-guinéen"
+        ],
+        "drapeau": "https://flagcdn.com/pg.svg"
+    },
+    "FSM": {
+        "nom": "Micronésie",
+        "capitale": "Palikir",
+        "continent": "Océanie",
+        "sous-continent": "Micronésie",
+        "population": 115021,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar américain"
+        ],
+        "drapeau": "https://flagcdn.com/fm.svg"
+    },
+    "ATG": {
+        "nom": "Antigua-et-Barbuda",
+        "capitale": "Saint Jean",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 97928,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar des Caraïbes orientales"
+        ],
+        "drapeau": "https://flagcdn.com/ag.svg"
+    },
+    "JAM": {
+        "nom": "Jamaïque",
+        "capitale": "Kingston",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 2961161,
+        "langue": [
+            "Anglais",
+            "Patois jamaïcain"
+        ],
+        "devise": [
+            "Dollar jamaïcain"
+        ],
+        "drapeau": "https://flagcdn.com/jm.svg"
+    },
+    "MEX": {
+        "nom": "Mexique",
+        "capitale": "Mexico",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Nord",
+        "population": 128932753,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Peso mexicain"
+        ],
+        "drapeau": "https://flagcdn.com/mx.svg"
+    },
+    "BRB": {
+        "nom": "Barbade",
+        "capitale": "Bridgetown",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 287371,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar barbadien"
+        ],
+        "drapeau": "https://flagcdn.com/bb.svg"
+    },
+    "SWE": {
+        "nom": "Suède",
+        "capitale": "Stockholm",
+        "continent": "Europe",
+        "sous-continent": "Europe du Nord",
+        "population": 10353442,
+        "langue": [
+            "suédois"
+        ],
+        "devise": [
+            "Couronne suédoise"
+        ],
+        "drapeau": "https://flagcdn.com/se.svg"
+    },
+    "SWZ": {
+        "nom": "Swaziland",
+        "capitale": "Mbabane",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Sud",
+        "population": 1160164,
+        "langue": [
+            "Anglais",
+            "Swazi"
+        ],
+        "devise": [
+            "Lilangeni swazi",
+            "Rand sud-africain"
+        ],
+        "drapeau": "https://flagcdn.com/sz.svg"
+    },
+    "LBY": {
+        "nom": "Libye",
+        "capitale": "Tripoli",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Nord",
+        "population": 6871287,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "Dinar libyen"
+        ],
+        "drapeau": "https://flagcdn.com/ly.svg"
+    },
+    "CZE": {
+        "nom": "Tchéquie",
+        "capitale": "Prague",
+        "continent": "Europe",
+        "sous-continent": "Europe Centrale",
+        "population": 10698896,
+        "langue": [
+            "tchèque",
+            "slovaque"
+        ],
+        "devise": [
+            "Couronne tchèque"
+        ],
+        "drapeau": "https://flagcdn.com/cz.svg"
+    },
+    "GUY": {
+        "nom": "Guyana",
+        "capitale": "Georgetown",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 786559,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar guyanais"
+        ],
+        "drapeau": "https://flagcdn.com/gy.svg"
+    },
+    "SLE": {
+        "nom": "Sierra Leone",
+        "capitale": "Freetown",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 7976985,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Leone sierra-léonais"
+        ],
+        "drapeau": "https://flagcdn.com/sl.svg"
+    },
+    "ARE": {
+        "nom": "Emirats Arabes unis",
+        "capitale": "Abou Dabi",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 9890400,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "Dirham des Emirats Arabes Unis"
+        ],
+        "drapeau": "https://flagcdn.com/ae.svg"
+    },
+    "TLS": {
+        "nom": "Timor oriental",
+        "capitale": "Dili",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud-Est",
+        "population": 1318442,
+        "langue": [
+            "Portugais",
+            "Tétoum"
+        ],
+        "devise": [
+            "Dollar américain"
+        ],
+        "drapeau": "https://flagcdn.com/tl.svg"
+    },
+    "DZA": {
+        "nom": "Algérie",
+        "capitale": "Alger",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Nord",
+        "population": 44700000,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "Dinar algérien"
+        ],
+        "drapeau": "https://flagcdn.com/dz.svg"
+    },
+    "ZMB": {
+        "nom": "Zambie",
+        "capitale": "Lusaka",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 18383956,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Kwacha zambien"
+        ],
+        "drapeau": "https://flagcdn.com/zm.svg"
+    },
+    "PRY": {
+        "nom": "Paraguay",
+        "capitale": "Asuncion",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 7132530,
+        "langue": [
+            "Guarani",
+            "Espagnol"
+        ],
+        "devise": [
+            "Guaraní paraguayen"
+        ],
+        "drapeau": "https://flagcdn.com/py.svg"
+    },
+    "DEU": {
+        "nom": "Allemagne",
+        "capitale": "Berlin",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Ouest",
+        "population": 83240525,
+        "langue": [
+            "Allemand"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/de.svg"
+    },
+    "KWT": {
+        "nom": "Koweït",
+        "capitale": "Koweït",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 4270563,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "Dinar koweïtien"
+        ],
+        "drapeau": "https://flagcdn.com/kw.svg"
+    },
+    "HND": {
+        "nom": "Honduras",
+        "capitale": "Tegucigalpa",
+        "continent": "Amérique",
+        "sous-continent": "Amérique Centrale",
+        "population": 9904608,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Lempira hondurien"
+        ],
+        "drapeau": "https://flagcdn.com/hn.svg"
+    },
+    "NER": {
+        "nom": "Niger",
+        "capitale": "Niamey",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 24206636,
+        "langue": [
+            "Français"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique de l'Ouest"
+        ],
+        "drapeau": "https://flagcdn.com/ne.svg"
+    },
+    "SAU": {
+        "nom": "Arabie Saoudite",
+        "capitale": "Riyad",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 34813867,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "Riyal saoudien"
+        ],
+        "drapeau": "https://flagcdn.com/sa.svg"
+    },
+    "ALB": {
+        "nom": "Albanie",
+        "capitale": "Tirana",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud-Est",
+        "population": 2837743,
+        "langue": [
+            "Albanais"
+        ],
+        "devise": [
+            "Lek Albanais"
+        ],
+        "drapeau": "https://flagcdn.com/al.svg"
+    },
+    "VUT": {
+        "nom": "Vanuatu",
+        "capitale": "Port-Vila",
+        "continent": "Océanie",
+        "sous-continent": "Mélanésie",
+        "population": 307150,
+        "langue": [
+            "Bislama",
+            "Anglais",
+            "Français"
+        ],
+        "devise": [
+            "Vanuatu vatu"
+        ],
+        "drapeau": "https://flagcdn.com/vu.svg"
+    },
+    "BGR": {
+        "nom": "Bulgarie",
+        "capitale": "Sofia",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud-Est",
+        "population": 6927288,
+        "langue": [
+            "bulgare"
+        ],
+        "devise": [
+            "lev bulgare"
+        ],
+        "drapeau": "https://flagcdn.com/bg.svg"
+    },
+    "AGO": {
+        "nom": "Angola",
+        "capitale": "Luanda",
+        "continent": "Afrique",
+        "sous-continent": "Afrique Centrale",
+        "population": 32866268,
+        "langue": [
+            "Portugais"
+        ],
+        "devise": [
+            "Kwanza angolais"
+        ],
+        "drapeau": "https://flagcdn.com/ao.svg"
+    },
+    "NRU": {
+        "nom": "Nauru",
+        "capitale": "Yaren",
+        "continent": "Océanie",
+        "sous-continent": "Micronésie",
+        "population": 10834,
+        "langue": [
+            "Anglais",
+            "Nauru"
+        ],
+        "devise": [
+            "Dollar australien"
+        ],
+        "drapeau": "https://flagcdn.com/nr.svg"
+    },
+    "SSD": {
+        "nom": "Soudan du Sud",
+        "capitale": "Djouba",
+        "continent": "Afrique",
+        "sous-continent": "Afrique Centrale",
+        "population": 11193729,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Livre sud-soudanaise"
+        ],
+        "drapeau": "https://flagcdn.com/ss.svg"
+    },
+    "AZE": {
+        "nom": "Azerbaïdjan",
+        "capitale": "Bakou",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 10110116,
+        "langue": [
+            "Azerbaïdjanais",
+            "Ausse"
+        ],
+        "devise": [
+            "Manat azerbaïdjanais"
+        ],
+        "drapeau": "https://flagcdn.com/az.svg"
+    },
+    "BTN": {
+        "nom": "Bhoutan",
+        "capitale": "Thimphu",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud",
+        "population": 771612,
+        "langue": [
+            "Dzongkha"
+        ],
+        "devise": [
+            "Ngultrum bhoutanais",
+            "roupie indienne"
+        ],
+        "drapeau": "https://flagcdn.com/bt.svg"
+    },
+    "AFG": {
+        "nom": "Afghanistan",
+        "capitale": "Kaboul",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud",
+        "population": 40218234,
+        "langue": [
+            "Dari",
+            "pachto",
+            "turkmène"
+        ],
+        "devise": [
+            "Afghan afghan"
+        ],
+        "drapeau": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg"
+    },
+    "FJI": {
+        "nom": "Fidji",
+        "capitale": "Suva",
+        "continent": "Océanie",
+        "sous-continent": "Mélanésie",
+        "population": 896444,
+        "langue": [
+            "Anglais",
+            "fidjien",
+            "Fidji Hindi"
+        ],
+        "devise": [
+            "Dollar fidjien"
+        ],
+        "drapeau": "https://flagcdn.com/fj.svg"
+    },
+    "HRV": {
+        "nom": "Croatie",
+        "capitale": "Zagreb",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud-Est",
+        "population": 4047200,
+        "langue": [
+            "croate"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/hr.svg"
+    },
+    "SUR": {
+        "nom": "Surinam",
+        "capitale": "Paramaribo",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 586634,
+        "langue": [
+            "Néerlandais"
+        ],
+        "devise": [
+            "Dollar surinamais"
+        ],
+        "drapeau": "https://flagcdn.com/sr.svg"
+    },
+    "TUV": {
+        "nom": "Tuvalu",
+        "capitale": "Funafuti",
+        "continent": "Océanie",
+        "sous-continent": "Polynésie",
+        "population": 11792,
+        "langue": [
+            "Anglais",
+            "tuvaluan"
+        ],
+        "devise": [
+            "Dollar australien",
+            "Dollar tuvaluan"
+        ],
+        "drapeau": "https://flagcdn.com/tv.svg"
+    },
+    "IRL": {
+        "nom": "Irlande",
+        "capitale": "Dublin",
+        "continent": "Europe",
+        "sous-continent": "Europe du Nord",
+        "population": 4994724,
+        "langue": [
+            "Anglais",
+            "irlandais"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/ie.svg"
+    },
+    "GNB": {
+        "nom": "Guinée-Bissau",
+        "capitale": "Bissau",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 1967998,
+        "langue": [
+            "Portugais",
+            "Créole de Haute Guinée"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique de l'Ouest"
+        ],
+        "drapeau": "https://flagcdn.com/gw.svg"
+    },
+    "MLT": {
+        "nom": "Malte",
+        "capitale": "La Valette",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud",
+        "population": 525285,
+        "langue": [
+            "Anglais",
+            "maltais"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/mt.svg"
+    },
+    "GTM": {
+        "nom": "Guatemala",
+        "capitale": "Guatemala",
+        "continent": "Amérique",
+        "sous-continent": "Amérique Centrale",
+        "population": 16858333,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Quetzal guatémaltèque"
+        ],
+        "drapeau": "https://flagcdn.com/gt.svg"
+    },
+    "DOM": {
+        "nom": "République dominicaine",
+        "capitale": "Saint Domingue",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 10847904,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Peso dominicain"
+        ],
+        "drapeau": "https://flagcdn.com/do.svg"
+    },
+    "PLW": {
+        "nom": "Palaos (Palau)",
+        "capitale": "Ngerulmud",
+        "continent": "Océanie",
+        "sous-continent": "Micronésie",
+        "population": 18092,
+        "langue": [
+            "Anglais",
+            "Palaos"
+        ],
+        "devise": [
+            "Dollar américain"
+        ],
+        "drapeau": "https://flagcdn.com/pw.svg"
+    },
+    "TON": {
+        "nom": "Tonga",
+        "capitale": "Nuku'alofa",
+        "continent": "Océanie",
+        "sous-continent": "Polynésie",
+        "population": 105697,
+        "langue": [
+            "Anglais",
+            "Tongien"
+        ],
+        "devise": [
+            "Paʻanga tongien"
+        ],
+        "drapeau": "https://flagcdn.com/to.svg"
+    },
+    "BRA": {
+        "nom": "Brésil",
+        "capitale": "Brasilia",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 212559409,
+        "langue": [
+            "Portugais"
+        ],
+        "devise": [
+            "réal brésilien"
+        ],
+        "drapeau": "https://flagcdn.com/br.svg"
+    },
+    "YEM": {
+        "nom": "Yémen",
+        "capitale": "Sanaa",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 29825968,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "Rial yéménite"
+        ],
+        "drapeau": "https://flagcdn.com/ye.svg"
+    },
+    "IDN": {
+        "nom": "Indonésie",
+        "capitale": "Jakarta",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud-Est",
+        "population": 273523621,
+        "langue": [
+            "indonésien"
+        ],
+        "devise": [
+            "Roupie indonésienne"
+        ],
+        "drapeau": "https://flagcdn.com/id.svg"
+    },
+    "NOR": {
+        "nom": "Norvège",
+        "capitale": "Oslo",
+        "continent": "Europe",
+        "sous-continent": "Europe du Nord",
+        "population": 5379475,
+        "langue": [
+            "norvégien nynorsk",
+            "norvégien bokmål",
+            "Samis"
+        ],
+        "devise": [
+            "couronne norvégienne"
+        ],
+        "drapeau": "https://flagcdn.com/no.svg"
+    },
+    "GRC": {
+        "nom": "Grèce",
+        "capitale": "Athènes",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud",
+        "population": 10715549,
+        "langue": [
+            "Grec"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/gr.svg"
+    },
+    "GNQ": {
+        "nom": "Guinée équatoriale",
+        "capitale": "Malabo",
+        "continent": "Afrique",
+        "sous-continent": "Afrique Centrale",
+        "population": 1402985,
+        "langue": [
+            "Français",
+            "Portugais",
+            "Espagnol"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique centrale"
+        ],
+        "drapeau": "https://flagcdn.com/gq.svg"
+    },
+    "MDV": {
+        "nom": "Maldives",
+        "capitale": "Malé",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud",
+        "population": 540542,
+        "langue": [
+            "Maldivien"
+        ],
+        "devise": [
+            "Rufiyaa des Maldives"
+        ],
+        "drapeau": "https://flagcdn.com/mv.svg"
+    },
+    "CPV": {
+        "nom": "Iles du Cap-Vert",
+        "capitale": "Praia",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 555988,
+        "langue": [
+            "Portugais"
+        ],
+        "devise": [
+            "Escudo capverdien"
+        ],
+        "drapeau": "https://flagcdn.com/cv.svg"
+    },
+    "QAT": {
+        "nom": "Qatar",
+        "capitale": "Doha",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 2881060,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "Rial qatari"
+        ],
+        "drapeau": "https://flagcdn.com/qa.svg"
+    },
+    "CHL": {
+        "nom": "Chili",
+        "capitale": "Santiago",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 19116209,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Peso chilien"
+        ],
+        "drapeau": "https://flagcdn.com/cl.svg"
+    },
+    "BOL": {
+        "nom": "Bolivie",
+        "capitale": "Sucre",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 11673029,
+        "langue": [
+            "Aymara",
+            "Guarani",
+            "Quechua",
+            "Espagnol"
+        ],
+        "devise": [
+            "boliviano bolivien"
+        ],
+        "drapeau": "https://flagcdn.com/bo.svg"
+    },
+    "LBN": {
+        "nom": "Liban",
+        "capitale": "Beyrouth",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 6825442,
+        "langue": [
+            "Arabe",
+            "Français"
+        ],
+        "devise": [
+            "livre libanaise"
+        ],
+        "drapeau": "https://flagcdn.com/lb.svg"
+    },
+    "CAN": {
+        "nom": "Canada",
+        "capitale": "Ottawa",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Nord",
+        "population": 38005238,
+        "langue": [
+            "Anglais",
+            "Français"
+        ],
+        "devise": [
+            "Dollar canadien"
+        ],
+        "drapeau": "https://flagcdn.com/ca.svg"
+    },
+    "KGZ": {
+        "nom": "Kirghizistan",
+        "capitale": "Bichkek",
+        "continent": "Asie",
+        "sous-continent": "Asie Centrale",
+        "population": 6591600,
+        "langue": [
+            "Kirghize",
+            "Russe"
+        ],
+        "devise": [
+            "Som kirghize"
+        ],
+        "drapeau": "https://flagcdn.com/kg.svg"
+    },
+    "TUN": {
+        "nom": "Tunisie",
+        "capitale": "Tunis",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Nord",
+        "population": 11818618,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "dinar tunisien"
+        ],
+        "drapeau": "https://flagcdn.com/tn.svg"
+    },
+    "ECU": {
+        "nom": "Equateur",
+        "capitale": "Quito",
+        "continent": "Amérique",
+        "sous-continent": "Amérique du Sud",
+        "population": 17643060,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Dollar américain"
+        ],
+        "drapeau": "https://flagcdn.com/ec.svg"
+    },
+    "MDG": {
+        "nom": "Madagascar",
+        "capitale": "Antananarivo",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 27691019,
+        "langue": [
+            "Français",
+            "malgache"
+        ],
+        "devise": [
+            "Ariary malgache"
+        ],
+        "drapeau": "https://flagcdn.com/mg.svg"
+    },
+    "NZL": {
+        "nom": "Nouvelle-Zélande",
+        "capitale": "Wellington",
+        "continent": "Océanie",
+        "sous-continent": "Australie et Nouvelle Zélande",
+        "population": 5084300,
+        "langue": [
+            "Anglais",
+            "Maori",
+            "Langue des signes néo-zélandaise"
+        ],
+        "devise": [
+            "Dollar néo-zélandais"
+        ],
+        "drapeau": "https://flagcdn.com/nz.svg"
+    },
+    "NIC": {
+        "nom": "Nicaragua",
+        "capitale": "Managua",
+        "continent": "Amérique",
+        "sous-continent": "Amérique Centrale",
+        "population": 6624554,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Cordoue nicaraguayenne"
+        ],
+        "drapeau": "https://flagcdn.com/ni.svg"
+    },
+    "UGA": {
+        "nom": "Ouganda",
+        "capitale": "Kampala",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 45741000,
+        "langue": [
+            "Anglais",
+            "Swahili"
+        ],
+        "devise": [
+            "Shilling ougandais"
+        ],
+        "drapeau": "https://flagcdn.com/ug.svg"
+    },
+    "CAF": {
+        "nom": "République centrafricaine",
+        "capitale": "Bangui",
+        "continent": "Afrique",
+        "sous-continent": "Afrique Centrale",
+        "population": 4829764,
+        "langue": [
+            "Français",
+            "Sango"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique centrale"
+        ],
+        "drapeau": "https://flagcdn.com/cf.svg"
+    },
+    "BHR": {
+        "nom": "Bahreïn",
+        "capitale": "Manama",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 1701583,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "Dinar bahreïni"
+        ],
+        "drapeau": "https://flagcdn.com/bh.svg"
+    },
+    "KNA": {
+        "nom": "Saint-Christophe-et-Niévès",
+        "capitale": "Basseterre",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 53192,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar des Caraïbes orientales"
+        ],
+        "drapeau": "https://flagcdn.com/kn.svg"
+    },
+    "BRN": {
+        "nom": "Brunei",
+        "capitale": "Bandar Seri Begawan",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud-Est",
+        "population": 437483,
+        "langue": [
+            "malais"
+        ],
+        "devise": [
+            "Dollar brunéien",
+            "Dollar de Singapour"
+        ],
+        "drapeau": "https://flagcdn.com/bn.svg"
+    },
+    "GHA": {
+        "nom": "Ghana",
+        "capitale": "Accra",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 31072945,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Cedi ghanéen"
+        ],
+        "drapeau": "https://flagcdn.com/gh.svg"
+    },
+    "HTI": {
+        "nom": "Haïti",
+        "capitale": "Port-au-Prince",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 11402533,
+        "langue": [
+            "Français",
+            "Créole haïtien"
+        ],
+        "devise": [
+            "Gourde haïtienne"
+        ],
+        "drapeau": "https://flagcdn.com/ht.svg"
+    },
+    "ROU": {
+        "nom": "Roumanie",
+        "capitale": "Bucarest",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud-Est",
+        "population": 19286123,
+        "langue": [
+            "roumain"
+        ],
+        "devise": [
+            "leu roumain"
+        ],
+        "drapeau": "https://flagcdn.com/ro.svg"
+    },
+    "WSM": {
+        "nom": "Samoa",
+        "capitale": "Apia",
+        "continent": "Océanie",
+        "sous-continent": "Polynésie",
+        "population": 198410,
+        "langue": [
+            "Anglais",
+            "Samoa"
+        ],
+        "devise": [
+            "Tala samoan"
+        ],
+        "drapeau": "https://flagcdn.com/ws.svg"
+    },
+    "OMN": {
+        "nom": "Oman",
+        "capitale": "Muscat",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 5106622,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "Rial omanais"
+        ],
+        "drapeau": "https://flagcdn.com/om.svg"
+    },
+    "SDN": {
+        "nom": "Soudan",
+        "capitale": "Khartoum",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Nord",
+        "population": 43849269,
+        "langue": [
+            "Arabe",
+            "Anglais"
+        ],
+        "devise": [
+            "livre soudanaise"
+        ],
+        "drapeau": "https://flagcdn.com/sd.svg"
+    },
+    "TJK": {
+        "nom": "Tadjikistan",
+        "capitale": "Douchanbé",
+        "continent": "Asie",
+        "sous-continent": "Asie Centrale",
+        "population": 9537642,
+        "langue": [
+            "Russe",
+            "Tadjik"
+        ],
+        "devise": [
+            "somoni tadjik"
+        ],
+        "drapeau": "https://flagcdn.com/tj.svg"
+    },
+    "PRT": {
+        "nom": "Portugal",
+        "capitale": "Lisbonne",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud",
+        "population": 10305564,
+        "langue": [
+            "Portugais"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/pt.svg"
+    },
+    "FIN": {
+        "nom": "Finlande",
+        "capitale": "Helsinki",
+        "continent": "Europe",
+        "sous-continent": "Europe du Nord",
+        "population": 5530719,
+        "langue": [
+            "finlandais",
+            "suédois"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/fi.svg"
+    },
+    "KAZ": {
+        "nom": "Kazakhstan",
+        "capitale": "Noursoultan",
+        "continent": "Asie",
+        "sous-continent": "Asie Centrale",
+        "population": 18754440,
+        "langue": [
+            "Kazakh",
+            "Russe"
+        ],
+        "devise": [
+            "Tenge kazakh"
+        ],
+        "drapeau": "https://flagcdn.com/kz.svg"
+    },
+    "AND": {
+        "nom": "Andorre",
+        "capitale": "Andorre-la-Vieille",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud",
+        "population": 77265,
+        "langue": [
+            "Catalan"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/ad.svg"
+    },
+    "MRT": {
+        "nom": "Mauritanie",
+        "capitale": "Nouakchott",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 4649660,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "Ouguiya mauritanien"
+        ],
+        "drapeau": "https://flagcdn.com/mr.svg"
+    },
+    "BIH": {
+        "nom": "Bosnie-Herzégovine",
+        "capitale": "Sarajevo",
+        "continent": "Europe",
+        "sous-continent": "Europe du Sud-Est",
+        "population": 3280815,
+        "langue": [
+            "bosniaque",
+            "croate",
+            "serbe"
+        ],
+        "devise": [
+            "Mark convertible de Bosnie-Herzégovine"
+        ],
+        "drapeau": "https://flagcdn.com/ba.svg"
+    },
+    "VNM": {
+        "nom": "Viêt Nam",
+        "capitale": "Hanoï",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud-Est",
+        "population": 97338583,
+        "langue": [
+            "vietnamien"
+        ],
+        "devise": [
+            "đồng vietnamien"
+        ],
+        "drapeau": "https://flagcdn.com/vn.svg"
+    },
+    "CMR": {
+        "nom": "Cameroun",
+        "capitale": "Yaoundé",
+        "continent": "Afrique",
+        "sous-continent": "Afrique Centrale",
+        "population": 26545864,
+        "langue": [
+            "Anglais",
+            "Français"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique centrale"
+        ],
+        "drapeau": "https://flagcdn.com/cm.svg"
+    },
+    "ISR": {
+        "nom": "Israël",
+        "capitale": "Jérusalem",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 9216900,
+        "langue": [
+            "Arabe",
+            "hébreu"
+        ],
+        "devise": [
+            "Nouveau shekel israélien"
+        ],
+        "drapeau": "https://flagcdn.com/il.svg"
+    },
+    "TKM": {
+        "nom": "Turkménistan",
+        "capitale": "Achgabat",
+        "continent": "Asie",
+        "sous-continent": "Asie Centrale",
+        "population": 6031187,
+        "langue": [
+            "Tusse",
+            "Turkmène"
+        ],
+        "devise": [
+            "Manat du Turkménistan"
+        ],
+        "drapeau": "https://flagcdn.com/tm.svg"
+    },
+    "UZB": {
+        "nom": "Ouzbékistan",
+        "capitale": "Tachkent",
+        "continent": "Asie",
+        "sous-continent": "Asie Centrale",
+        "population": 34232050,
+        "langue": [
+            "Russe",
+            "Ouzbek"
+        ],
+        "devise": [
+            "Soʻm ouzbek"
+        ],
+        "drapeau": "https://flagcdn.com/uz.svg"
+    },
+    "GAB": {
+        "nom": "Gabon",
+        "capitale": "Libreville",
+        "continent": "Afrique",
+        "sous-continent": "Afrique Centrale",
+        "population": 2225728,
+        "langue": [
+            "Français"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique centrale"
+        ],
+        "drapeau": "https://flagcdn.com/ga.svg"
+    },
+    "GRD": {
+        "nom": "Grenade",
+        "capitale": "Saint-Georges",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 112519,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar des Caraïbes orientales"
+        ],
+        "drapeau": "https://flagcdn.com/gd.svg"
+    },
+    "DMA": {
+        "nom": "Dominique",
+        "capitale": "Roseau",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 71991,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar des Caraïbes orientales"
+        ],
+        "drapeau": "https://flagcdn.com/dm.svg"
+    },
+    "NLD": {
+        "nom": "Pays-Bas",
+        "capitale": "Amsterdam",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Ouest",
+        "population": 16655799,
+        "langue": [
+            "Néerlandais"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/nl.svg"
+    },
+    "RUS": {
+        "nom": "Russie",
+        "capitale": "Moscou",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Est",
+        "population": 144104080,
+        "langue": [
+            "Russe"
+        ],
+        "devise": [
+            "Rouble russe"
+        ],
+        "drapeau": "https://flagcdn.com/ru.svg"
+    },
+    "LUX": {
+        "nom": "Luxembourg",
+        "capitale": "Luxembourg",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Ouest",
+        "population": 632275,
+        "langue": [
+            "Allemand",
+            "Français",
+            "Luxembourgeois"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/lu.svg"
+    },
+    "MWI": {
+        "nom": "Malawi",
+        "capitale": "Lilongwe",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 19129955,
+        "langue": [
+            "Anglais",
+            "Chewa"
+        ],
+        "devise": [
+            "Kwacha malawien"
+        ],
+        "drapeau": "https://flagcdn.com/mw.svg"
+    },
+    "STP": {
+        "nom": "São Tomé et Príncipe",
+        "capitale": "São Tomé",
+        "continent": "Afrique",
+        "sous-continent": "Afrique Centrale",
+        "population": 219161,
+        "langue": [
+            "Portugais"
+        ],
+        "devise": [
+            "Dobra de São Tomé et Príncipe"
+        ],
+        "drapeau": "https://flagcdn.com/st.svg"
+    },
+    "TUR": {
+        "nom": "Turquie",
+        "capitale": "Ankara",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Ouest",
+        "population": 84339067,
+        "langue": [
+            "Turc"
+        ],
+        "devise": [
+            "livre turque"
+        ],
+        "drapeau": "https://flagcdn.com/tr.svg"
+    },
+    "EGY": {
+        "nom": "Egypte",
+        "capitale": "Caire",
+        "continent": "Afrique",
+        "sous-continent": "Afrique du Nord",
+        "population": 102334403,
+        "langue": [
+            "Arabe"
+        ],
+        "devise": [
+            "livre égyptienne"
+        ],
+        "drapeau": "https://flagcdn.com/eg.svg"
+    },
+    "NPL": {
+        "nom": "Népal",
+        "capitale": "Katmandou",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud",
+        "population": 29136808,
+        "langue": [
+            "Népalais"
+        ],
+        "devise": [
+            "roupie népalaise"
+        ],
+        "drapeau": "https://flagcdn.com/np.svg"
+    },
+    "CIV": {
+        "nom": "Côte d'Ivoire",
+        "capitale": "Yamoussoukro",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 26378275,
+        "langue": [
+            "Français"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique de l'Ouest"
+        ],
+        "drapeau": "https://flagcdn.com/ci.svg"
+    },
+    "COG": {
+        "nom": "Congo",
+        "capitale": "Brazzaville",
+        "continent": "Afrique",
+        "sous-continent": "Afrique Centrale",
+        "population": 5657000,
+        "langue": [
+            "Français",
+            "Kikongo",
+            "Lingala"
+        ],
+        "devise": [
+            "Franc CFA d'Afrique centrale"
+        ],
+        "drapeau": "https://flagcdn.com/cg.svg"
+    },
+    "CHN": {
+        "nom": "Chine",
+        "capitale": "Pékin",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Est",
+        "population": 1402112000,
+        "langue": [
+            "Chinois"
+        ],
+        "devise": [
+            "le yuan chinois"
+        ],
+        "drapeau": "https://flagcdn.com/cn.svg"
+    },
+    "COM": {
+        "nom": "Comores",
+        "capitale": "Moroni",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 869595,
+        "langue": [
+            "Arabe",
+            "Français",
+            "Comorien"
+        ],
+        "devise": [
+            "Franc comorien"
+        ],
+        "drapeau": "https://flagcdn.com/km.svg"
+    },
+    "JPN": {
+        "nom": "Japon",
+        "capitale": "Tokyo",
+        "continent": "Asie",
+        "sous-continent": "Asie de l'Est",
+        "population": 125836021,
+        "langue": [
+            "Japonais"
+        ],
+        "devise": [
+            "yen japonais"
+        ],
+        "drapeau": "https://flagcdn.com/jp.svg"
+    },
+    "LTU": {
+        "nom": "Lituanie",
+        "capitale": "Vilnius",
+        "continent": "Europe",
+        "sous-continent": "Europe du Nord",
+        "population": 2794700,
+        "langue": [
+            "lituanien"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/lt.svg"
+    },
+    "SGP": {
+        "nom": "Singapour",
+        "capitale": "Singapour",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud-Est",
+        "population": 5685807,
+        "langue": [
+            "Chinois",
+            "Anglais",
+            "malais",
+            "Tamil"
+        ],
+        "devise": [
+            "Dollar de Singapour"
+        ],
+        "drapeau": "https://flagcdn.com/sg.svg"
+    },
+    "CRI": {
+        "nom": "Costa Rica",
+        "capitale": "San Jose",
+        "continent": "Amérique",
+        "sous-continent": "Amérique Centrale",
+        "population": 5094114,
+        "langue": [
+            "Espagnol"
+        ],
+        "devise": [
+            "Colón costaricien"
+        ],
+        "drapeau": "https://flagcdn.com/cr.svg"
+    },
+    "FRA": {
+        "nom": "France",
+        "capitale": "Paris",
+        "continent": "Europe",
+        "sous-continent": "Europe de l'Ouest",
+        "population": 67391582,
+        "langue": [
+            "Français"
+        ],
+        "devise": [
+            "Euro"
+        ],
+        "drapeau": "https://flagcdn.com/fr.svg"
+    },
+    "VCT": {
+        "nom": "Saint-Vincent-et-les-Grenadines",
+        "capitale": "Kingstown",
+        "continent": "Amérique",
+        "sous-continent": "Caraïbes",
+        "population": 110947,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar des Caraïbes orientales"
+        ],
+        "drapeau": "https://flagcdn.com/vc.svg"
+    },
+    "LBR": {
+        "nom": "Liberia",
+        "capitale": "Monrovia",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 5057677,
+        "langue": [
+            "Anglais"
+        ],
+        "devise": [
+            "Dollar libérien"
+        ],
+        "drapeau": "https://flagcdn.com/lr.svg"
+    },
+    "MOZ": {
+        "nom": "Mozambique",
+        "capitale": "Maputo",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Est",
+        "population": 31255435,
+        "langue": [
+            "Portugais"
+        ],
+        "devise": [
+            "Metical mozambicain"
+        ],
+        "drapeau": "https://flagcdn.com/mz.svg"
+    },
+    "BGD": {
+        "nom": "Bangladesh",
+        "capitale": "Dacca",
+        "continent": "Asie",
+        "sous-continent": "Asie du Sud",
+        "population": 164689383,
+        "langue": [
+            "bengali"
+        ],
+        "devise": [
+            "taka bangladais"
+        ],
+        "drapeau": "https://flagcdn.com/bd.svg"
+    },
+    "GIN": {
+        "nom": "Guinée",
+        "capitale": "Conakry",
+        "continent": "Afrique",
+        "sous-continent": "Afrique de l'Ouest",
+        "population": 13132792,
+        "langue": [
+            "Français"
+        ],
+        "devise": [
+            "Franc guinéen"
+        ],
+        "drapeau": "https://flagcdn.com/gn.svg"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "nomQuiz": "Les capitales du monde",
+    "nbQuestion": 5,
+    "nbProposition": 4,
+    "varQuestion":
+        {
+            "attrQuestion":"nom",
+            "attrReponse":"capitale"
+        },
+    "categorie":"Monde",
+    "type": "QCM"
+}

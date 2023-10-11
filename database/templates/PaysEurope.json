@@ -1,0 +1,12 @@
+{
+    "nomQuiz": "Les pays d'Europe",
+    "nbQuestion": 5,
+    "nbProposition": 4,
+    "varQuestion":
+        {
+            "attrQuestion":"nom",
+            "attrReponse":"nom"
+        },
+    "categorie":"Europe",
+    "type": "carte"
+}

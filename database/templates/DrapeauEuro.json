@@ -1,0 +1,12 @@
+{
+    "nomQuiz": "Les Drapeaux de la zone Euro",
+    "nbQuestion": 10,
+    "nbProposition": 4,
+    "varQuestion":
+        {
+            "attrQuestion":"nom",
+            "attrReponse":"drapeau"
+        },
+    "categorie":"Zone Euro",
+    "type": "QCM"
+}

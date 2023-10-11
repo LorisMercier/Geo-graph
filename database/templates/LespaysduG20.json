@@ -1,0 +1,11 @@
+{
+    "nomQuiz": "Les pays du G20",
+    "nbQuestion": 20,
+    "nbProposition": 0,
+    "varQuestion": {
+        "attrQuestion": "nom",
+        "attrReponse": "nom"
+    },
+    "categorie": "G20",
+    "type": "carte"
+}

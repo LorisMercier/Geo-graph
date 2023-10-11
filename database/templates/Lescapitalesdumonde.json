@@ -1,0 +1,11 @@
+{
+    "nomQuiz": "Les capitales du monde",
+    "nbQuestion": 5,
+    "nbProposition": 0,
+    "varQuestion": {
+        "attrQuestion": "capitale",
+        "attrReponse": "capitale"
+    },
+    "categorie": "Monde",
+    "type": "carte"
+}

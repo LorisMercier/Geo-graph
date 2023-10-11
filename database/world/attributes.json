@@ -1,0 +1,10 @@
+{
+        "nom" : ["unique"],
+        "capitale" : ["unique"],
+        "continent" : [],
+        "sous-continent" : [],
+        "population" : ["unique"],
+        "langue" : ["list"],
+        "devise" : ["list"],
+        "drapeau" : ["unique", "image"]
+}

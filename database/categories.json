@@ -1,0 +1,51 @@
+{
+    "Monde": {
+        "type": 0,
+        "filtres": []
+    },
+    "Europe": {
+        "type": 0,
+        "filtres": [
+            {
+                "nomAttr": "continent",
+                "type": "=",
+                "valeurAttr": "Europe"
+            }
+        ]
+    },
+    "Zone Euro": {
+        "type": 0,
+        "filtres": [
+            {
+                "nomAttr": "devise",
+                "type": "=",
+                "valeurAttr": "Euro"
+            }
+        ]
+    },
+    "G20": {
+        "type": 1,
+        "pays": [
+            "AUS",
+            "USA",
+            "CAN",
+            "SAU",
+            "IND",
+            "BRA",
+            "IRN",
+            "TUR",
+            "RUS",
+            "ARG",
+            "MEX",
+            "ESP",
+            "DEU",
+            "FRA",
+            "ITA",
+            "GBR",
+            "CHN",
+            "IDN",
+            "JPN",
+            "KOR"
+        ]
+    }
+}

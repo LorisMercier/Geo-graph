@@ -1,0 +1,12 @@
+{
+    "nomQuiz": "Les capitales d'Europe",
+    "nbQuestion": 5,
+    "nbProposition": 4,
+    "varQuestion":
+        {
+            "attrQuestion":"capitale",
+            "attrReponse":"capitale"
+        },
+    "categorie":"Europe",
+    "type": "carte"
+}

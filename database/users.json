@@ -1,0 +1,69 @@
+{
+    "TERRY": {
+        "password": "87703844bb8264f4ba6eca3935797148cd54311f",
+        "dateCreation": 1678833427,
+        "dateConnexion": 1679948015,
+        "token": "A1fxzywJDk0Ew!SLBsnvkFK8?6LEWIecPWZBROQp"
+    },
+    "TEST": {
+        "password": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+        "dateCreation": 1686234370,
+        "dateConnexion": 1686234570,
+        "token": "ae18RbH.4vFIgd4OpRdp9rAAVCAmdfZv7V$e7B.1"
+    },
+    "LORIS": {
+        "password": "eed6fe663a979bc383840b79bebad4746bc7629b",
+        "dateCreation": 1678833929,
+        "dateConnexion": 1686235409,
+        "token": "Z1FRKpTgrrYUWdhCG82izkbusWX60yyT-rf5x.E?",
+        "stats": {
+            "Europe": {
+                "Les capitales d'Europe": {
+                    "QCM": {
+                        "moyenne": 53.33,
+                        "nbQuestion": 15,
+                        "scoreMax": 100
+                    },
+                    "carte": {
+                        "moyenne": 80,
+                        "nbQuestion": 5,
+                        "scoreMax": 80
+                    }
+                },
+                "mean": 51.11,
+                "Les pays d'Europe": {
+                    "carte": {
+                        "moyenne": 20,
+                        "nbQuestion": 5,
+                        "scoreMax": 20
+                    }
+                }
+            },
+            "Monde": {
+                "Les capitales du monde": {
+                    "QCM": {
+                        "moyenne": 60,
+                        "nbQuestion": 20,
+                        "scoreMax": 100
+                    },
+                    "carte": {
+                        "moyenne": 20,
+                        "nbQuestion": 5,
+                        "scoreMax": 20
+                    }
+                },
+                "mean": 40
+            },
+            "G20": {
+                "Les capitales du G20": {
+                    "QCM": {
+                        "moyenne": 100,
+                        "nbQuestion": 10,
+                        "scoreMax": 100
+                    }
+                },
+                "mean": 100
+            }
+        }
+    }
+}
