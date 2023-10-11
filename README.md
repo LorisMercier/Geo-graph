@@ -19,14 +19,14 @@ Année : 2023
 ## Table des matières
 1. [Arborescence du projet](#1---arborescence-du-projet)
 2. [Fonctionnalités](#2---fonctionnalités)
-    - [Apprendre](#21---apprendre)
+    1. [Apprendre](#21---apprendre)
         1. [Carte interactive](#211---carte-interactive)
         2. [Les tableaux](#212---les-tableaux)
-    - [Quiz](#22---quiz)
+    2. [Quiz](#22---quiz)
         1. [Les QCM](#221---les-qcm)
         2. [Les cartes](#222---les-cartes)
-    - [Créer un quiz](#23---créer-un-quiz)
-    - [Créer une catégorie](#24---créer-une-catégorie)
+    3. [Créer un quiz](#23---créer-un-quiz)
+    4. [Créer une catégorie](#24---créer-une-catégorie)
 
 ## 1-- Arborescence du projet
 
@@ -64,12 +64,12 @@ Année : 2023
 #### 2.1.1-- Carte interactive
 La carte interactive permet de visualiser les pays du monde et d'obtenir des informations sur ces derniers. Survolez les pays avec votre souris et découvrez la géographie du monde.  
 
-<img src="assets/img/capture_apprendre.png" alt="Img carte interactive" width="400" />
+<img src="assets/img/capture_apprendre.png" alt="Img carte interactive" width="600" />
 
 #### 2.1.2-- Les tableaux
 Pour les révisions plus classiques, notre site contient une page regroupant les informations sur les pays du monde. Vous pouvez trier les pays par nom, capitale, langue, etc.
 
-<img src="assets/img/capture_tab.png" alt="Img tableau" width="400" />
+<img src="assets/img/capture_tab.png" alt="Img tableau" width="600" />
 
 ### 2.2-- Quiz
 Tous les quiz sont générés automatiquement et aléatoirement à partir de templates. De ce fait, chaque partie est unique et vous permet d'engranger de la connaissance tout en vous amusant.
@@ -86,7 +86,7 @@ Pour les plus expérimentés, nous proposons également des quiz sous forme de c
 
 
 
-<img src="assets/img/capture_quiz.png" alt="Img tableau" width="400" />
+<img src="assets/img/capture_quiz.png" alt="Img tableau" width="600" />
 
 
 
